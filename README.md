@@ -22,7 +22,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [TouchBarPong](https://github.com/ferdinandl007/TouchBarPong) - And amazing new way of playing pong the touch bar of the new MacBook pro
 * [Muse](https://github.com/xzzz9097/Muse) - An open-source Spotify controller with TouchBar support
 * [osx-touchbar-party-parrot](https://github.com/mjaniszew/osx-touchbar-party-parrot) - Use Electron to display Party Parrots on MacBooks Pro Touch Bar
-* [osx-touchbar-parrots-on-steroids](https://github.com/DariuszMusielak/osx-touchbar-parrots-on-steroids) - 
+* [osx-touchbar-parrots-on-steroids](https://github.com/DariuszMusielak/osx-touchbar-parrots-on-steroids) -
 Use Electron to display Party Parrots on steroids on MacBooks Pro Touch Bar
 * [RSSTouch](https://github.com/a-yasui/RSSTouch) - YahooのニュースRSSをTouchBar に流すだけのやつ
 * [SL on touch bar](https://github.com/NeoCat/sl_on_touchbar) - SL on touch bar
@@ -46,12 +46,12 @@ Use Electron to display Party Parrots on steroids on MacBooks Pro Touch Bar
 * [likeAsushi_touchbar](https://github.com/RyderBlack/likeAsushi_touchbar) - like a sushi
 * [touchanoid](https://github.com/JiriTrecak/Touchanoid) - Arkanoid for Mac TouchBar!
 * [Simon Says](https://github.com/simonbs/simonsays) - Play Simon Says on your touch bar.
-* [Hue-TouchBar](https://github.com/tomgekeerd/Hue-TouchBar) - A Mac app to control your Hue lights from your Touchbar 
+* [Hue-TouchBar](https://github.com/tomgekeerd/Hue-TouchBar) - A Mac app to control your Hue lights from your Touchbar
 * [Ten Hour Video Touch Bar](https://github.com/jxom/ten-hour-video-touchbar) - A pointless mac touch bar app which gives you a random 10 hour video upon each request
 * [OuichBar](https://github.com/mattlawer/OuichBar) - Sounds from ouich.es on your MacBook Pro TouchBar
 * [Touch Bar Demo App](https://github.com/scousekenny/TouchBarDemoApp-master) - Touch Bar Demo App
 * [TouchBarCompareDemo](https://github.com/FredYuuu/TouchBarCompareDemo) - A touch bar demo inspired by @cee
-* [TouchBarDemo](https://github.com/rydermackay/TouchBarDemo) - This project demonstrates adding Touch Bar support to a simple Cocoa application. 
+* [TouchBarDemo](https://github.com/rydermackay/TouchBarDemo) - This project demonstrates adding Touch Bar support to a simple Cocoa application.
 * [TouchBarTunes](https://github.com/jaylees14/TouchBarTunes) - A work in progress application that displays the music currently playing in iTunes on the Touch Bar.
 * [TouchBarGameTutorial](https://github.com/Darkkrye/TouchBarGameTutorial) - TouchBar Game Tutorial
 * [PPAPBar](https://github.com/EnsekiTT/PPAPBar) - TouchBarでPPAPするアプリ
@@ -67,13 +67,14 @@ Use Electron to display Party Parrots on steroids on MacBooks Pro Touch Bar
 * [React Native TouchBar](https://github.com/ptmt/react-native-touchbar) - TouchBar for react-native-macos
 * [TouchBar](https://github.com/Watson1978/TouchBar) - This is a sample of RubyMotion for Touch Bar.
 * [TouchBar Demo App](https://github.com/bikkelbroeders/TouchBarDemoApp) - Allows you to use your macOS Touch Bar from an iPad (through USB connection) or on-screen by pressing the Fn-key.
-* [Sushibar](https://github.com/mzp/sushibar) - NSTouchbar sample app. 
+* [Sushibar](https://github.com/mzp/sushibar) - NSTouchbar sample app.
 * [TouchBarServer](https://github.com/zydeco/TouchBarServer) - Touch Bar over VNC
 * [Touch Bar Launcher](https://github.com/zats/TouchBarLauncher) - Touch Bar simulator launcher. Requires Xcode 8.1 and macOS 10.12.1
 * [TouchBarScreenshotter](https://github.com/steventroughtonsmith/TouchBarScreenshotter) - Touch Bar screenshotter; easily snap screenshots of the currently presented Touch Bar in macOS
 * [TouchBar](https://github.com/yycking/TouchBar) - Simple test for Touch bar Simulator
-* [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac 
+* [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
 * [TouchBarDisabler](https://github.com/HiKay/TouchBarDisabler) - TouchBarDisabler allows users to manually turn off the Touch Bar on 2016 MacBook Pro devices. You will be guided to turn off System Integrity Protection before using the app.
 * [TouchTest](https://github.com/HeadBanging/TouchTest) - NSDocument with TouchBar support
 * [touchbar](https://github.com/loretoparisi/touchbar) - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples
-
+* [touchbarPet](https://github.com/graceavery/tamagotchiTemp) - Tamagotchi like creature living on your touch Bar
+* [touchbarLemmings](https://github.com/erikolsson/Touch-Bar-Lemmings) - Lemmings in your touch bar
